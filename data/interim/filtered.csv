@@ -1,0 +1,126 @@
+GPA,Gender,grade_level,employment,eating_out,nutritional_check,on_off_campus,breakfast,coffee,type_sports,sports,weight,self_perception_overweight
+2.4,2,2,3.0,3,5,1.0,1,1,car racing,1.0,187.0,False
+3.654,1,4,2.0,2,4,1.0,1,2,Basketball ,1.0,155.0,False
+3.3,1,3,3.0,2,4,2.0,1,2,none,2.0,155.0,True
+3.2,1,4,3.0,2,2,1.0,1,2,Desconhecido,2.0,240.0,True
+3.5,1,4,2.0,2,3,1.0,1,2,Softball,1.0,190.0,True
+2.25,1,2,3.0,1,1,1.0,1,2,None.,2.0,190.0,True
+3.8,2,4,3.0,2,4,2.0,1,2,soccer,1.0,180.0,True
+3.3,1,2,2.0,2,4,1.0,1,1,none,2.0,137.0,False
+3.3,1,1,2.0,5,2,1.0,1,1,none,2.0,180.0,True
+3.3,1,1,3.0,3,5,1.0,1,2,field hockey,1.0,125.0,False
+3.5,1,3,1.0,2,2,3.0,1,2,soccer,1.0,116.0,False
+3.904,1,2,2.0,1,5,1.0,1,2,Running,1.0,110.0,False
+3.4,2,1,3.0,1,2,1.0,1,2,Soccer and basketball ,1.0,264.0,True
+3.6,1,3,2.0,4,2,2.0,1,2,intramural volleyball,1.0,123.0,False
+3.1,2,3,3.0,2,2,2.0,1,2,Hockey,1.0,185.0,False
+3.5,2,1,3.0,4,1,1.0,2,2,Hockey,1.0,180.0,False
+4.0,1,1,2.0,1,4,1.0,1,1,Desconhecido,2.0,145.0,False
+3.6,2,1,3.0,2,4,1.0,1,2,hockey,1.0,170.0,False
+3.4,1,2,2.0,3,2,1.0,1,1,dancing ,2.0,135.0,False
+2.2,2,1,3.0,2,1,1.0,1,2,basketball,1.0,165.0,True
+3.3,2,2,2.0,4,2,1.0,1,2,Soccer,1.0,175.0,True
+3.87,2,4,2.0,1,4,1.0,1,1,Tennis,1.0,195.0,False
+3.7,2,1,2.0,1,3,1.0,1,1,tennis soccer gym,1.0,185.0,False
+3.7,2,3,2.0,2,2,1.0,2,2,Gaelic Football,1.0,185.0,False
+3.9,1,3,3.0,4,2,1.0,1,2,none,2.0,105.0,True
+2.8,1,1,3.0,2,4,1.0,2,2,Ice hockey,1.0,125.0,False
+3.7,2,2,2.0,2,2,1.0,1,1,Hockey,1.0,160.0,False
+3.0,2,1,3.0,2,4,1.0,1,2,Lacrosse ,1.0,175.0,False
+3.2,2,3,2.0,2,5,1.0,1,2,Desconhecido,2.0,180.0,False
+3.5,2,3,3.0,5,2,1.0,1,2,Desconhecido,2.0,167.0,False
+4.0,1,4,2.0,3,4,3.0,1,2,snowboarding,1.0,115.0,False
+4.0,2,2,3.0,2,4,4.0,1,2,none organized,2.0,205.0,True
+3.4,2,4,2.0,3,4,1.0,1,2,Soccer,1.0,155.0,True
+2.8,1,1,3.0,2,4,1.0,1,1,Desconhecido,2.0,128.0,False
+3.65,1,1,3.0,3,4,1.0,1,2,softball,1.0,150.0,False
+3.0,1,3,3.0,2,2,2.0,1,2,Lacrosse,1.0,150.0,False
+3.7,1,2,2.0,4,3,1.0,1,2,Softball ,1.0,150.0,True
+3.4,1,4,2.0,2,4,1.0,1,2,Dancing,1.0,170.0,True
+3.89,1,4,3.0,2,4,1.0,1,2,Lacrosse,1.0,150.0,True
+3.0,2,4,3.0,5,1,2.0,1,2,Hockey,1.0,175.0,False
+3.4,2,1,3.0,2,3,1.0,1,1,wrestling ,1.0,140.0,False
+2.9,1,2,2.0,4,4,1.0,1,2,Desconhecido,2.0,120.0,True
+3.6,1,2,2.0,2,1,1.0,1,2,Desconhecido,2.0,135.0,False
+3.5,1,3,2.0,1,3,1.0,1,1,no particular engagement ,2.0,100.0,False
+3.2,1,4,2.0,2,4,2.0,1,2,Volleyball,1.0,170.0,False
+3.605,1,2,2.0,2,2,1.0,1,2,none,2.0,113.0,False
+3.8,2,1,2.0,2,3,1.0,1,1,soccer ,1.0,168.0,False
+2.8,2,1,2.0,2,2,1.0,1,2,wrestling & rowing,1.0,145.0,False
+3.5,2,2,3.0,2,3,1.0,2,1,Wrestling,1.0,155.0,False
+3.83,2,3,2.0,2,2,1.0,1,2,none,2.0,150.0,False
+3.6,2,3,3.0,2,5,3.0,1,2,Desconhecido,2.0,169.0,False
+3.3,2,2,3.0,3,5,1.0,1,1,Hockey,1.0,185.0,False
+3.3,2,2,2.0,5,5,1.0,1,2,Lacrosse ,1.0,200.0,False
+3.292,2,4,2.0,3,1,3.0,1,2,Desconhecido,2.0,265.0,True
+3.5,2,2,3.0,3,4,1.0,1,2,hockey,1.0,165.0,False
+3.35,1,1,3.0,5,3,1.0,2,2,softball,1.0,192.0,False
+3.8,2,4,3.0,4,4,2.0,1,2,Hockey,1.0,175.0,False
+2.8,1,2,2.0,3,5,1.0,1,2,softball,1.0,140.0,False
+3.5,1,3,2.0,2,2,2.0,1,2,Skiing,1.0,155.0,False
+3.7,1,4,3.0,2,2,2.0,1,2,skiing ,1.0,155.0,False
+3.6,1,1,3.0,5,4,1.0,1,2,Water polo and running ,1.0,135.0,False
+3.5,1,4,2.0,2,4,3.0,1,2,Desconhecido,2.0,118.0,False
+3.9,2,4,2.0,5,4,1.0,1,2,Ice Hockey,1.0,210.0,False
+2.6,1,3,3.0,4,4,1.0,1,2,rowing ,1.0,180.0,False
+3.5,1,2,2.0,3,4,1.0,1,1,Volleyball,1.0,140.0,True
+3.2,1,2,3.0,3,1,1.0,1,2,Desconhecido,2.0,112.0,False
+3.0,1,1,3.0,2,4,1.0,1,1,tennis  ,1.0,125.0,False
+3.6,1,2,2.0,3,2,1.0,1,1,"Recreational Basketball, Equestrian Team",1.0,144.0,False
+3.2,1,1,3.0,1,3,1.0,1,1,soccer,1.0,145.0,False
+3.67,1,3,3.0,2,4,2.0,2,2,Desconhecido,2.0,130.0,False
+3.73,1,3,2.0,1,2,1.0,1,2,Rec Volleyball,1.0,140.0,False
+4.0,1,3,2.0,1,4,1.0,1,2,Softball,1.0,140.0,True
+3.1,2,1,2.0,1,2,1.0,2,2,Desconhecido,2.0,140.0,False
+3.79,2,2,3.0,4,5,3.0,1,2,baseball,1.0,200.0,False
+2.71,2,3,3.0,1,2,2.0,2,1,Desconhecido,2.0,155.0,False
+3.0,1,1,2.0,2,4,1.0,1,2,I danced in high school,2.0,120.0,False
+3.7,1,4,2.0,2,3,2.0,2,1,horse back riding,1.0,150.0,True
+3.1,2,4,2.0,2,1,1.0,2,1,Basketball ,1.0,200.0,False
+3.0,1,2,2.0,2,4,1.0,1,2,competitive skiing,1.0,135.0,False
+3.9,2,1,3.0,1,4,1.0,1,2,"Rowing, Running, and Cycling",1.0,145.0,False
+3.4,1,1,2.0,3,2,1.0,1,2,Desconhecido,2.0,130.0,False
+3.5,1,4,3.0,3,2,1.0,2,1,softball and basketball,1.0,190.0,True
+3.7,1,3,3.0,5,3,1.0,1,2,wrestling,1.0,170.0,False
+3.7,1,1,2.0,2,3,1.0,1,2,Marching Band,1.0,127.0,False
+3.83,1,2,3.0,2,5,1.0,1,2,Collegiate Water Polo,1.0,167.0,False
+2.6,1,1,2.0,3,3,1.0,1,2,None right now,2.0,140.0,False
+3.0,1,1,3.0,1,5,1.0,1,2,"volleyball, lacrosse",1.0,190.0,True
+3.2,2,2,2.0,2,2,1.0,1,1,field hockey,1.0,155.0,True
+3.5,2,3,2.0,1,5,1.0,2,2,Desconhecido,2.0,175.0,False
+3.2,1,3,2.0,2,5,1.0,1,2,none ,2.0,129.0,False
+3.68,2,1,3.0,2,2,1.0,1,2,Fotball,1.0,260.0,True
+3.8,1,3,2.0,3,3,2.0,2,2,crew,2.0,135.0,False
+3.3,2,3,2.0,5,2,1.0,2,2,"Football, Basketball, Volleyball, Golf",1.0,190.0,True
+3.2,2,1,3.0,2,1,1.0,1,2,Desconhecido,2.0,165.0,False
+3.75,2,4,2.0,2,4,1.0,1,2,"hockey, soccer, golf",1.0,175.0,False
+3.5,2,3,3.0,2,3,1.0,1,2,Wrestling,1.0,184.0,False
+3.92,2,1,2.0,2,2,1.0,1,2,Soccer,2.0,210.0,True
+3.9,1,2,2.0,2,4,1.0,1,2,Running ,1.0,155.0,False
+3.9,2,4,3.0,5,3,4.0,1,1,Tennis,1.0,185.0,True
+3.2,1,1,2.0,3,2,1.0,1,1,softball,1.0,165.0,False
+3.5,1,1,2.0,2,2,1.0,1,2,"Volleyball, Track",1.0,125.0,False
+3.4,1,1,2.0,2,4,1.0,1,2,Desconhecido,2.0,160.0,True
+3.5,1,2,3.0,3,5,1.0,1,2,Desconhecido,2.0,135.0,True
+3.7,1,3,2.0,2,4,1.0,1,2,"When I can, rarely though play pool, darts, and basketball.",2.0,130.0,True
+3.5,1,1,2.0,2,4,1.0,1,2,None at the moment,2.0,230.0,True
+3.0,1,4,2.0,3,2,2.0,1,2,volleyball,1.0,125.0,False
+3.0,1,1,2.0,5,4,1.0,1,2,Desconhecido,2.0,130.0,True
+3.8,1,2,2.0,2,2,1.0,1,1,I used to play softball ,2.0,165.0,True
+3.8,1,2,3.0,2,4,1.0,1,2,Ice hockey,1.0,128.0,False
+3.4,1,2,2.0,3,4,1.0,1,2, None,2.0,200.0,True
+3.7,1,4,3.0,4,3,2.0,1,1,Volleyball,1.0,160.0,False
+2.9,2,3,2.0,2,4,3.0,1,2,Desconhecido,2.0,170.0,False
+3.9,1,4,3.0,4,4,1.0,1,2,Desconhecido,2.0,129.0,False
+3.6,1,4,2.0,3,4,1.0,1,1,Desconhecido,2.0,170.0,True
+2.8,2,2,3.0,3,3,1.0,1,2,"Tennis, Basketball",1.0,138.0,False
+3.3,2,1,2.0,2,1,1.0,1,2,Hockey,1.0,150.0,False
+3.4,1,1,3.0,4,2,1.0,1,2,none,2.0,170.0,True
+3.77,1,2,2.0,2,2,1.0,1,2,"No, I don't play sport.",2.0,113.0,True
+3.63,1,2,2.0,2,2,3.0,1,1,Desconhecido,2.0,140.0,True
+3.2,2,4,2.0,2,2,1.0,1,2,Soccer,1.0,185.0,True
+3.5,1,4,1.0,2,5,3.0,1,2,Softball,1.0,156.0,True
+3.0,1,4,3.0,4,3,1.0,1,2,basketball ,1.0,180.0,True
+3.882,1,3,3.0,3,3,1.0,1,1,none,2.0,120.0,True
+3.0,2,1,2.0,5,4,1.0,1,1,Desconhecido,2.0,135.0,False
+3.9,1,3,2.0,1,5,1.0,1,2,Desconhecido,2.0,135.0,False
